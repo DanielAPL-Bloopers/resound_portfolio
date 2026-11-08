@@ -118,6 +118,17 @@ body {
   font-weight: 500;
 }
 
+.track-list {
+  display: grid;
+  width: 100%;
+  max-width: 900px;
+  gap: 24px;
+}
+
+.track {
+  min-width: 0;
+}
+
 iframe {
   display: block;
   width: 100%;
