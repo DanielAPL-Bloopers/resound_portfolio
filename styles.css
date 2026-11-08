@@ -8,11 +8,14 @@ ul {
   list-style: none;
 }
 
+iframe {
+  display: block;
+}
+
 .description {
   width: 40%;
-  margin-top: 8px;
+  margin-top: 0;
   overflow: hidden;
-  border-radius: 4px;
   background-color: #f3ead7;
   color: #333333;
 }
