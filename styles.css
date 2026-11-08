@@ -10,12 +10,14 @@ ul {
 
 iframe {
   display: block;
+  border-radius: 3px 3px 0 0;
 }
 
 .description {
   width: 40%;
   margin-top: 0;
   overflow: hidden;
+  border-radius: 0 0 3px 3px;
   background-color: #f3ead7;
   color: #333333;
 }
